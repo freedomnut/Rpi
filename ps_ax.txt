@@ -1,0 +1,3 @@
+ps ax
+//Shows a list of processes running on your Raspberry Pi.
+//These include SSH (the two sshd) and Sama (nmbd and smbd) and many others.
