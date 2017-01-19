@@ -1,0 +1,2 @@
+clear
+//Clears the screen just the way "cls" does at a command prompt.
