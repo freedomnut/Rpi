@@ -1,0 +1,3 @@
+sudo apt-get install rcconf
+//A "simple startup service management tool, allowing one to easily turn off services, and see if they're enabled and will run at startup."
+
