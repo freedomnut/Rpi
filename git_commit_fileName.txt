@@ -1,0 +1,6 @@
+git commit <file name> -m "<message>"
+This after the file has been added.  It still needs to be pushed.  
+
+If you've edited a file that already exists in github, then just use commit and then push.  Add won't be necessary.
+
+The <message> should be an explanation of the change made.  Make minor changes, then commit.
