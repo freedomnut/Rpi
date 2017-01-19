@@ -1,0 +1,2 @@
+git add <file name>
+This is for adding a completely new file.  The new file has been created, but it hasn't been added.  After this comes commit and then push.
