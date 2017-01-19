@@ -1,2 +1,2 @@
 # Rpi
-These are commands that you will need for working with Git at the command line.  
+The files whose names begin with "git_" are commands that you will need for working with Git at the command line.  
