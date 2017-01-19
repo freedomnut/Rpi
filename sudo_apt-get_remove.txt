@@ -1,0 +1,8 @@
+sudo apt-get remove <program>
+
+//for example:
+sudo apt-get remove xrdp
+sudo apt-get remove xrdp vnc4server tightvncserver
+
+//then to install:
+sudo apt-get install tightvncserver

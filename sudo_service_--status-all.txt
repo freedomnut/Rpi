@@ -1,0 +1,2 @@
+sudo service --status-all
+//Lists all services and their current status.

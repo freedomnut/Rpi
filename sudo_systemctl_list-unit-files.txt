@@ -1,0 +1,5 @@
+sudo systemctl list-unit-files
+sudo systemctl list-unit-files | grep enabled
+
+//The first one shows all services, which supposedly is a long list.
+//The second one lists only services that should start automatically.
